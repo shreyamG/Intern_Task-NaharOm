@@ -22,7 +22,7 @@
 
 
 ---
-![Slide 4](Task_img/slide_4.JPG)
+![Slide 4](Task_img/slide_4.png)
 
 
 ---
